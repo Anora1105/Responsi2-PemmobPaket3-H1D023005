@@ -23,7 +23,7 @@ Berikut adalah daftar endpoint yang digunakan:
 
 ---
 
-## 📱 Penjelasan Kode Flutter
+## Penjelasan Kode Flutter
 Berikut adalah penjelasan fungsi dari setiap file dalam project Flutter:
 
 ### 1. `main.dart`
@@ -51,16 +51,3 @@ Berikut adalah penjelasan fungsi dari setiap file dalam project Flutter:
     * **Mode Tambah:** Jika tidak ada data yang dikirim dari halaman Home, maka form kosong dan tombol berfungsi sebagai "Simpan" (akses `create.php`).
     * **Mode Edit:** Jika menerima parameter data buku, maka form terisi otomatis dan tombol berfungsi sebagai "Update" (akses `update.php`).
 * Menangani 7 input field sesuai soal: Judul, Harga, Jumlah, Tanggal, Volume, Penulis, dan Penerbit.
-
----
-
-## ⚙️ Cara Instalasi
-1.  **Backend:**
-    * Import database `responsi_abimart` ke phpMyAdmin.
-    * Simpan folder `responsi_api` ke dalam `htdocs` XAMPP.
-    * Pastikan XAMPP berjalan.
-2.  **Mobile:**
-    * Buka project di VS Code.
-    * Jalankan `flutter pub get`.
-    * Ubah IP Address di kodingan jika menggunakan device asli (default: `10.0.2.2` untuk emulator).
-    * Jalankan `flutter run`.
