@@ -3,7 +3,6 @@
 ## Responsi 2 Paket 3 Pemmob C
 
 ### Video Demo Aplikasi
-<img src="https://raw.githubusercontent.com/Anora1105/Responsi2-PemmobPaket3-H1D023005/main/responsi%202%.gif" width="200">
 ![responsi 2](https://github.com/user-attachments/assets/168d3725-6ec4-462f-be81-ad7696301918)
 
 ---
